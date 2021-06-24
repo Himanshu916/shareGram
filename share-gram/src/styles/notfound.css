@@ -1,0 +1,13 @@
+.notFound-box
+{
+    min-height: 80vh;
+    position: relative;
+}
+.notFound-box h2
+{
+    position: absolute;
+    left:50%;
+    top:50%;
+    color:gray;
+
+}
